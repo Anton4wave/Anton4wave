@@ -1,6 +1,6 @@
 ### Hi, my name in Anton 👋 
 
-Field of interests: DA, ML, NLP
+Field of interests: DA, ML, DL, NLP, CV
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         Python, SQL, C++
