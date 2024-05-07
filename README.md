@@ -1,4 +1,4 @@
-### Hi, my name in Anton 👋 and I 
+### Hi, my name in Anton 👋 
 
 Field of interests: DA, ML, NLP
 
